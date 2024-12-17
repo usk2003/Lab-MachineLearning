@@ -31,5 +31,5 @@ This repository contains all the machine learning lab programs implemented as pa
 ## 💡 **How to Use**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/usk2003/Machine-Learning-Algorithms.git
+   git clone https://github.com/usk2003/Lab-MachineLearning.git
 
